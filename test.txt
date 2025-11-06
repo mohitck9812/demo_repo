@@ -1,2 +1,6 @@
 Hello World
+
 this line is added by branch f2
+
+this line is changed by branch f1.
+
